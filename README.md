@@ -291,19 +291,19 @@ Example response:
 
 Four-page report connected to both PostgreSQL and the FastAPI endpoints. The `.pbix` file is included at `dashboard/Sales_Dashboard.pbix`.
 
-### Page 1 — Sales Performance Overview
+### Page 1 : Sales Performance Overview
 
 Revenue trend from 2016 to 2018, KPI cards showing R$13.22M total revenue, 96K orders and 4.01 average review score, geographic distribution across Brazilian states, and top product categories ranked by revenue.
 
 ![Sales Performance Dashboard](dashboard/page_1.PNG)
 
-### Page 2 — 30 Day Revenue Forecast
+### Page 2 : 30 Day Revenue Forecast
 
 Prophet model predictions showing R$1.09M total forecast revenue over the next 30 days. Peak day identified as Monday August 6 2018 at R$50K. Confidence interval chart showing upper and lower bounds across the forecast window.
 
 ![Sales Forecast](dashboard/page_2.PNG)
 
-### Page 3 — Customer Segmentation Analysis
+### Page 3 : Customer Segmentation Analysis
 
 K-Means segmentation results showing 4 customer groups. Standard Buyers dominate at 81.8% of the sample. Frustrated Buyers show 2.0 average review score and 21 day average delivery vs 10 days for Standard Buyers — a clear logistics gap driving poor customer satisfaction.
 
