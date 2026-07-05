@@ -368,9 +368,9 @@ uvicorn app.main:app --reload
 - Add LSTM model as a comparison against Prophet
 - Deploy API to cloud using Railway or Render
 - Add JWT authentication to FastAPI endpoints
-- Connect Power BI to live API for real-time dashboard refresh
+- Connect Power BI to live API for real time dashboard refresh
 - Expand Text-to-SQL to handle multi-table joins automatically
-- Add SHAP values to XGBoost for deeper feature explainability
+
 
 ---
 
