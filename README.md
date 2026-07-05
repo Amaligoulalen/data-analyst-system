@@ -334,7 +334,7 @@ Create a `.env` file in the project root:
 
 ```
 DB_HOST=localhost
-DB_PORT=5432
+DB_PORT=#
 DB_NAME=ai_analytics
 DB_USER=postgres
 DB_PASSWORD=your_password
