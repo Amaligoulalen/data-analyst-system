@@ -295,7 +295,7 @@ Four-page report connected to both PostgreSQL and the FastAPI endpoints. The `.p
 
 Revenue trend from 2016 to 2018, KPI cards showing R$13.22M total revenue, 96K orders and 4.01 average review score, geographic distribution across Brazilian states, and top product categories ranked by revenue.
 
-![Sales Overview](dashboard/page_1.png)
+![page_1.PNG](dashboard/page_1.png)
 
 ### Page 2 — 30 Day Revenue Forecast
 
